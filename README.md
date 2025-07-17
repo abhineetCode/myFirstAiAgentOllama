@@ -1,5 +1,5 @@
-# myFirstAiAgentOllama
-Created a sample restaurant review query using embeddings model
+# myFirstAiAgentOllama using chromadb vector store
+Created a sample restaurant review query using embeddings model.
 open folder in visual studio code and create a file myFirstOllamaAgent.py
 
 install python extension in visual studio
